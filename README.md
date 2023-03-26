@@ -5,10 +5,15 @@ This repository contains an interactive Bicycle template created using HTML, CSS
 Features
 
 Responsive design with Bootstrap grid system
+
 Dynamic menu with smooth scrolling
+
 Form for user input
+
 Social media links
+
 Position-fix elements for a more interactive experience
+
 
 Usage
 
